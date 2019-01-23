@@ -1,0 +1,17 @@
+.navbar-fluid {
+    background-color: #262626;
+    color: white;
+    padding: 1em;
+}
+#navbarDropdown {
+    color: white;
+}
+.dropdown {
+    margin-right: 2em;
+}
+.list-inline {
+    margin-bottom: 0;
+}
+.nav-link {
+    color: white;
+}

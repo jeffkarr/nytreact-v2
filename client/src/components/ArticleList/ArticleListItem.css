@@ -1,0 +1,24 @@
+.container {
+    background-color: white;
+}
+
+.panel-title {
+    background-color: #35546A;
+    color: white;
+}
+
+h3 {
+    color: black;
+}
+
+.panel-heading {
+    background-color: #35546A;
+}
+
+.search-results-bar h3 {
+    color: white;
+}
+
+.saved-articles-bar h3 {
+    color: white;
+}

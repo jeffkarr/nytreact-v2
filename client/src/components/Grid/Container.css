@@ -1,0 +1,6 @@
+.container, .container-fluid {
+    background-color: #262626;
+}
+.container-fluid {
+    padding-bottom: 1.5em;
+}
